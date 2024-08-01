@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "khushi-26",
+  "private_key_id": "369aed726abe8a9588722e97270382b7a7c90f3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0mZClMVwst/Af\n9Qi8Zgo7bjmYV+iGSnOcOeSof53a6aFyE5Q76LK7gCW4BG8Gp6lh6VJGgRWX+0ie\n0NEkys29Ztxnk6WEF0FYAJXBHO4TI7kbf+CJf8gvk0DjwimE0XJ204+DfcgUclua\n1+IngQaLmtPcMCuNFvyYXjNYYxxMHvoU9/dCVHtjrikbv0jpCilWWaD/ewL+8pHI\nyEaqqhOL7v1B2Z1nxNEPI9TfQISPE2ra/y3Mh+AZvNy8BSW25LLp0pWr25Jd7W7b\njYnqcJ/S4FdBKiUV7ZRrNfX2kuX42mPpddmsJTqjiqbYq0YzqdX4XkOBUU8UnegS\nXyL5IxsXAgMBAAECggEAP1WHU1c/EvOigyKEYMWMGxFpo1JY2hdr+cKXvLucWTQL\niRzypBvT6ktjbugnI3dSwGJ5lv4X24elDQUAA14Xzq8u5ifyKKObJ8h0vBdwKkgh\n11H+JVopkv2aCQWDV++3q5I/xwYqT3lXRLMmvWHTMMwoNhSygTUpeim26e0/9DVk\ntnLmFk3SBwISnGI7werCay7XG0H/XIfeYy9OZohPOWGFIZUlYO5f5XQn2D0PXvux\nOX4MlUAqPA6ZApz8sJ6iTMkuJ0gcdLTBfj9A0qjXvwWwJG9oxRfjT8Q/62lKfI6b\n0Bam7jmw3zNLO0pBlOsbGUCfMSplJutrcyGqhbWuMQKBgQD1CCUTASXortI2nbkT\nFwAboVzSvIsPCs7c3ni0etfhoMwlBbgsPAGYqNhnx86YyA79Pm8MdFU8XRQluAIu\nHk/YrSR9fzbPyVM4sdX6C5Gu0xIqWjIFgcTmqgbMczf9ACT7vZEbPF+FEzZoe2qM\ny3XgdW0Xe+EbTMgz+OmhjvhQGQKBgQC8rxXI1DafZTSXzquBqXdrniOknOc2nNq0\nbLE9T9vu0pbe1sbc5GOE0BEcpMu20t4+FLDEBXwgixJR4qa8UgaI3Uh8+WRCTGkL\nFBxgloG0y9ax1Gf0CxFn0ZuFyiOV3hvBilVHE3WQwG9lFj/hDwqZ2O+Kb1luaTpK\n7uK/DUpqrwKBgQCuTt341/88uGiIO8k1wE3uWerrav7Nc5XW31gko6LBOh8fUyNC\nLGnCTJKtuSDJ5L9s/aYHyRX9fAViE7VRU3TfocPslrvKMuDF2xRp7SL0p+grQsCE\n1Fza7icp9+jjTOACSUdZhag5xYIV733LrM0tILu7Uf+/6O4esrqYmFkiuQKBgD6J\nJQY315bCu0ipNcy2tx7S/es8GaHPIOl1sNSqWDFyWJCozKY/iABn2ZQNxnrkrsYS\no3eEfdxnW34KScrWwNWxyamqGqGio5oJY1Jb78dVW+X6iS2oUW+AWDRih6LPR5HA\n4Hy7JVcBgKoXUrqr+o59CP9v4ksm0ywsurgploV/AoGBAObYcGAad2Nr61otJbDx\naQ1oxBwLAH90oX9MEI1bwxeQlYd7oc/E5nKQGWvVLq4hTe98OQgkQoKHsSwv9Si8\nmQNuX0FGwWnknJn3E62i+vKdrYBwiZWZSQVbFBanazyt8wPdAw2J3bs0kA8X/bIf\ng2lGSTquwMbDCxiRAfLLJ+IY\n-----END PRIVATE KEY-----\n",
+  "client_email": "Pushkal-Shukla@khushi-26.iam.gserviceaccount.com",
+  "client_id": "101645835766733562201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/Pushkal-Shukla%40khushi-26.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
